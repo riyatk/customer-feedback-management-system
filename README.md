@@ -8,6 +8,7 @@ git clone https://github.com/riyatk/customer-feedback-management-system.git
 cd customer-feedback-management-system
 
 Step 2: Install Dependencies
+
 pip install tabulate
 
 Step 3: Run the Application
