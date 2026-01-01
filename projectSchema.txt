@@ -1,0 +1,6 @@
+Users
+-----
+id (PK)
+username (UNIQUE)
+password
+role  → admin | customer
